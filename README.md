@@ -1,7 +1,3 @@
-<!-- ========================= -->
-<!--        BANNER SVG         -->
-<!-- ========================= -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=32&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=HI%2C+I'M+RAY.+%F0%9F%91%8B;FRONTEND+DEVELOPER;UI%2FUX+DESIGNER;BUILDING+CLEAN+INTERFACES" />
 </p>
@@ -11,18 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MHAchrain">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/mhrain._">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:mhikmaturrahman2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://github.com/MHAchrain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mhrain._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:mhikmaturrahman2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -62,7 +50,7 @@
 
 | Project Name | Description | Tech Stack | Status / Link |
 | :--- | :--- | :--- | :--- |
-| 🐾 **Rere Petshop** | Website *marketplace* untuk mitra toko Rere Petshop. Menekankan kemudahan navigasi dan *clean interface*. | `Frontend` `UI/UX` | 🔗 *Link Menyusul* |
+| 🐾 **Rere Petshop** | Website *marketplace* untuk mitra toko Rere Petshop. Menekankan kemudahan navigasi dan *clean interface*. | `Frontend` `UI/UX` | https://rerepetshop.biz.id/ |
 | 🏆 **TechSoft** | Website Native Platform Lomba untuk **Himpunan Rekayasa Perangkat Lunak – Politeknik Negeri Indramayu**. | `PHP` `MySQL` `CSS` | 🌐 *Internal Production* |
 
 ---
