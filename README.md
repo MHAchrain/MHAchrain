@@ -1,58 +1,63 @@
-# Hi, I'm Max 👋  
-**Frontend Developer | UI/UX Designer**
+<!-- ========================= -->
+<!--        BANNER SVG         -->
+<!-- ========================= -->
 
-Saya adalah Frontend Developer dengan fokus pada pengembangan antarmuka yang **bersih, konsisten, dan berorientasi pada pengalaman pengguna**.  
-Terbiasa mengerjakan **project kuliah** maupun **project pribadi**, dengan pendekatan desain yang fungsional dan mudah digunakan.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Max;Frontend+Developer;UI%2FUX+Designer;Building+Clean+%26+Usable+Interfaces" />
+</p>
+
+<p align="center">
+  <sub>Frontend Developer • UI/UX Designer • Intermediate Level</sub>
+</p>
 
 ---
 
-## 👨‍💻 Tentang Saya
-- Nama: **MHAchrain**  
-- Nickname: **Max**
-- Role: **Frontend Developer & UI/UX Designer**
-- Level: **Intermediate**
-- Fokus utama: **Frontend Development & UI/UX Design**
+## 👋 Tentang Saya
+Halo, saya **MHAchrain** (biasa dipanggil **Ray**).  
+Seorang **Frontend Developer & UI/UX Designer** yang fokus membangun antarmuka **bersih, konsisten, dan berorientasi pada pengalaman pengguna**.
+
+Saya terbiasa mengerjakan **Project Kuliah** dan **Project Pribadi**, dengan perhatian pada detail desain dan kenyamanan pengguna.
+
+---
+
+## 🎯 Fokus Utama
+- Frontend Development  
+- UI / UX Design  
+- Responsive & User-Friendly Interface  
 
 ---
 
 ## 🛠️ Tech Stack
-**Frontend & Programming**
-- JavaScript  
-- PHP  
-- Python  
-
-**Database**
-- MySQL  
-
-**UI / UX**
-- Wireframing  
-- User Flow  
-- Interface Design  
-- Design Consistency  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/PHP-000000?style=flat&logo=php&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=4479A1"/>
+</p>
 
 ---
 
 ## 📂 Project Highlight
-### 🐾 Rere Petshop  
+### 🐾 Rere Petshop
 Website **marketplace** untuk mitra toko Rere Petshop.  
-Fokus pada kemudahan navigasi dan tampilan yang ramah pengguna.
+Menekankan kemudahan navigasi, tampilan bersih, dan pengalaman pengguna.
 
 🔗 Website: *(link menyusul)*
 
 ---
 
-### 🏆 TechSoft  
-Website **platform lomba** untuk mitra  
+### 🏆 TechSoft
+Website Native **Platform Lomba** untuk mitra  
 **Himpunan Rekayasa Perangkat Lunak – Politeknik Negeri Indramayu**.
 
-Digunakan untuk publikasi dan pengelolaan informasi lomba.
+Digunakan sebagai media publikasi dan informasi lomba.
 
 ---
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHAchrain&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHAchrain&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MHAchrain&show_icons=true&hide_title=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHAchrain&layout=compact&theme=default" height="160"/>
 </p>
 
 ---
@@ -78,4 +83,6 @@ Digunakan untuk publikasi dan pengelolaan informasi lomba.
 
 ---
 
-> *"Good UI is invisible, great UX is unforgettable."*
+<p align="center">
+  <sub><i>"Good UI is invisible, great UX is unforgettable."</i></sub>
+</p>
